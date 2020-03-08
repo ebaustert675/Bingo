@@ -21,5 +21,4 @@ def bingo():
     return out
 
 
-r = bingo()
-print(r)
+
